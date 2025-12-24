@@ -2,3 +2,8 @@ https://ipython.readthedocs.io/en/stable/interactive/magics.html
 https://en.wikibooks.org/wiki/LaTeX/Mathematics
 https://www.python.org/about/apps/
 https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+https://docs.python.org/3/tutorial/datastructures.html#sets
+https://docs.python.org/3/tutorial/datastructures.html
+https://runestone.academy/ns/books/published/pythonds/Introduction/GettingStartedwithData.html
+https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
+https://docs.python.org/3/tutorial/datastructures.html#dictionaries
