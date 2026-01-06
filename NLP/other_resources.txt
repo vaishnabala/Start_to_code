@@ -1,4 +1,8 @@
 https://docs.python.org/2/library/re.html#re.RegexObject
 https://regex101.com/
 https://pycon2016.regex.training/cheat-sheet
-
+https://en.wikipedia.org/wiki/Zipf%27s_law
+http://snowball.tartarus.org/algorithms/porter/stemmer.html
+http://snowball.tartarus.org/
+https://snowballstem.org/
+https://github.com/snowballstem
