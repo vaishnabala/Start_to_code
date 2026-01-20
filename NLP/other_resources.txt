@@ -6,3 +6,4 @@ http://snowball.tartarus.org/algorithms/porter/stemmer.html
 http://snowball.tartarus.org/
 https://snowballstem.org/
 https://github.com/snowballstem
+https://en-word.net/
